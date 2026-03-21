@@ -1,0 +1,29 @@
+id attribute
+============
+to give an element a unique name
+
+class attribute
+==============
+groups elements under a shared name 
+
+Semantic HTML
+-------------------
+1.header tag
+2. nav tag
+
+css
+====
+1.Inline css:added directly inside an element -> style 
+2. Internal css:write inside the <style></style>
+3. External css
+
+css properties
+===============
+font-size
+text-align 
+height
+width
+margin
+padding 
+border
+font-family
