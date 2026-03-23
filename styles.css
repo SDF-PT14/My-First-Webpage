@@ -1,3 +1,19 @@
+*{
+	font-family: "Noto Sans Pahawh Hmong", sans-serif;
+	
+
+}
+body{
+	background-image: url("assets/backgound-image.jpg");
+	/* filter:blur(8px);
+	z-index: -1; */
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.content{
+	z-index: 1;
+}
+
 h2{
 	color:red;
 }
@@ -27,4 +43,21 @@ section{
 	border:3px solid gray;
 	margin: 15px;
 	padding: 15px;
+}
+#main-heading{
+	color:blue;
+}
+.second-heading{
+	color:yellow;
+
+}
+h2,p,a{
+	font-family: "Noto Sans Pahawh Hmong", sans-serif;
+}
+#my-projects p{
+	background-color: lightgrey;
+	color: black;
+}
+#my-projects h3{
+	color:red;
 }
